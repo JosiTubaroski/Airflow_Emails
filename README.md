@@ -25,9 +25,15 @@
 - Servidor SMTP (Serviço de envio de e-mail)
 - Configurar o Airflow
 
+
 # SMTP
 
 - Você pode usar qualquer SMTP
 - Vamos utilizar como exemplo o Gmail
 
-  
+
+### Configurando o gmail
+
+- Ir em configurações de conta no gmail, security, habilitar a opção "2-Step Verification"
+
+  exkz djff sskc gzzu
