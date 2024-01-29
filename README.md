@@ -37,3 +37,13 @@
 - Ir em configurações de conta no gmail, security, habilitar a opção "2-Step Verification"
 
   exkz djff sskc gzzu
+
+### Configurando o Airflow para envio de e-mails
+
+- Incluir no arquivo docker-compose.yaml as configurações para envio de e-mail.
+- As informações que devem ser adicionadas estão no arquivo config email
+- Após realizar a inclusão das informações, é necessário reiniciar o docker compose
+
+# Criando dag que envia e-mail
+
+
